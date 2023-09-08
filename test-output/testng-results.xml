@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-09T00:54:29 IST" name="Default Suite" finished-at="2023-09-09T00:55:53 IST" duration-ms="84199">
+    <groups>
+    </groups>
+    <test started-at="2023-09-09T00:54:29 IST" name="flamingo" finished-at="2023-09-09T00:55:53 IST" duration-ms="84199">
+      <class name="Flamingo">
+        <test-method is-config="true" signature="invokeBrowser()[pri:0, instance:Flamingo@731f8236]" started-at="2023-09-09T00:54:29 IST" name="invokeBrowser" finished-at="2023-09-09T00:54:34 IST" duration-ms="4584" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeBrowser -->
+        <test-method signature="homePage()[pri:1, instance:Flamingo@731f8236]" started-at="2023-09-09T00:54:34 IST" name="homePage" finished-at="2023-09-09T00:54:38 IST" duration-ms="4573" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePage -->
+        <test-method signature="addItems()[pri:2, instance:Flamingo@731f8236]" started-at="2023-09-09T00:54:38 IST" name="addItems" finished-at="2023-09-09T00:55:10 IST" duration-ms="31875" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addItems -->
+        <test-method signature="showCart()[pri:3, instance:Flamingo@731f8236]" started-at="2023-09-09T00:55:10 IST" name="showCart" finished-at="2023-09-09T00:55:12 IST" duration-ms="1912" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- showCart -->
+        <test-method signature="removeItem()[pri:4, instance:Flamingo@731f8236]" started-at="2023-09-09T00:55:12 IST" name="removeItem" finished-at="2023-09-09T00:55:15 IST" duration-ms="3247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeItem -->
+        <test-method signature="addAnotherItem()[pri:5, instance:Flamingo@731f8236]" started-at="2023-09-09T00:55:15 IST" name="addAnotherItem" finished-at="2023-09-09T00:55:29 IST" duration-ms="13760" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addAnotherItem -->
+        <test-method signature="checkout()[pri:6, instance:Flamingo@731f8236]" started-at="2023-09-09T00:55:29 IST" name="checkout" finished-at="2023-09-09T00:55:31 IST" duration-ms="2105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkout -->
+        <test-method signature="formFill()[pri:7, instance:Flamingo@731f8236]" started-at="2023-09-09T00:55:31 IST" name="formFill" finished-at="2023-09-09T00:55:48 IST" duration-ms="16429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- formFill -->
+        <test-method signature="payment()[pri:8, instance:Flamingo@731f8236]" started-at="2023-09-09T00:55:48 IST" name="payment" finished-at="2023-09-09T00:55:53 IST" duration-ms="5110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- payment -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Flamingo@731f8236]" started-at="2023-09-09T00:55:53 IST" name="quit" finished-at="2023-09-09T00:55:53 IST" duration-ms="507" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- Flamingo -->
+    </test> <!-- flamingo -->
+  </suite> <!-- Default Suite -->
+</testng-results>
